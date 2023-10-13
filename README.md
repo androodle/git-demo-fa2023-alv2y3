@@ -9,3 +9,8 @@ learn some cool stuff
 - git clone
 
 Actually learning Git!!!!!!!!!!!!!
+
+
+## Cool Stuff
+
+- learning branching
